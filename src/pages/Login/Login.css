@@ -1,0 +1,112 @@
+card {
+    position: absolute;
+    width: 1440px;
+    height: 870px;
+    left: 0px;
+    top: 0px;
+
+    /* Solitude */
+
+    background: #F1F2F6;
+    opacity: 0.6;
+    /* pisah */
+    position: absolute;
+    width: 390px;
+    height: 0px;
+    left: 793px;
+    top: 377px;
+
+    border: 1px solid #788292;
+}
+p {
+    position: absolute;
+    width: 297px;
+    height: 78px;
+    left: 230px;
+    top: 159px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 78px;
+
+    color: #F36E39;
+  }
+
+h5 {
+    position: absolute;
+    width: 467px;
+    height: 69px;
+    left: 230px;
+    top: 251px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+}
+h3 {
+    position: absolute;
+    width: 210px;
+    height: 52px;
+    left: 834px;
+    top: 368px;
+    bottom: 50px;
+    text-align: center;
+    color: white;
+
+/* Status Green */
+
+    background: #23BE7E;
+    border-radius: 10px;
+   
+}
+p1 {
+    position: absolute;
+    width: 396px;
+    height: 48px;
+    left: 790px;
+    top: 184px;
+
+    border: 1px solid #788292;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+p2 {
+    position: absolute;
+    width: 396px;
+    height: 48px;
+    left: 790px;
+    top: 245px;
+
+    border: 1px solid #788292;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+p3 {
+    position: absolute;
+    width: 393px;
+    height: 52px;
+    left: 790px;
+    top: 304px;
+    text-align: center;
+
+    /* Skydu Orange */
+
+    background: #F36E39;
+    border-radius: 10px;
+}
+hr {
+    position: absolute;
+    width: 390px;
+    height: 0px;
+    left: 793px;
+    top: 370px;
+    
+    border: 1px solid #788292;
+   
+}
