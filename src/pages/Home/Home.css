@@ -1,0 +1,439 @@
+.header {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 84%;
+
+/* White */
+
+background:whitesmoke;
+}
+.box {
+    position: absolute;
+width: 622px;
+height: 55px;
+left: 409px;
+top: 134px;
+
+/* White */
+
+background: #FFFFFF;
+/* Solitude */
+
+border: 1.5px solid #F1F2F6;
+box-sizing: border-box;
+border-radius: 8px;
+}
+    
+/* h2 {
+    position: absolute;
+    width: 34px;
+    height: 11px;
+    left: 512px;
+    top: 204px;
+
+    background: #C4C4C4;
+}
+h1 {
+    position: absolute;
+    width: 34px;
+    height: 11px;
+    left: 512px;
+    top: 370px;
+
+    background: #C4C4C4;
+} */
+h1 {
+    position: absolute;
+    width: 34px;
+    height: 22px;
+    left: 512px;
+    top: 88px;
+
+    background: #C4C4C4;
+}
+h4 {
+    position: absolute;
+    width: 34px;
+    height: 22px;
+    left: 512px;
+    top: 88px;
+
+    background: #C4C4C4;
+}
+.sky {
+    position: absolute;
+    left: 28.4%;
+    right: 67.29%;
+    top: 21.43%;
+    bottom: 27.14%;
+}
+.lonceng {
+        position: absolute;
+        left: 64.24%;
+        right: 32.43%;
+        top: 15.71%;
+        bottom: 15.71%;
+
+}
+p5 {
+        position: absolute;
+        left: 65.90%;
+        right: 40.5%;
+        top: 14.29%;
+        bottom: 52.86%;
+
+        color: #FF0000;
+}
+.head {
+    position: absolute;
+    left: 68%;
+    right: 28.100%;
+    top: 20%;
+    bottom: 22.86%;
+}
+p4 {
+    position: absolute;
+    width: 194px;
+    height: 18px;
+    left: 260px;
+    top: 20px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    /* Slate Grey */
+
+    color: #788292;
+}
+.kotak {
+    position: absolute;
+    width: 622px;
+    height: 202px;
+    left: 409px;
+    top: 200%;
+
+    /* White */
+
+    background: #FFFFFF;
+    /* Solitude */
+
+    border: 1.5px solid #F1F2F6;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+p9 {
+    position: absolute;
+width: 561px;
+height: 45.81px;
+/* left: 441px;
+top: 251.59px; */
+
+/* Content */
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 187.4%;
+/* or 26px */
+
+
+/* Catalina Blue */
+
+color: #203758;
+
+}
+p7 {
+    position: absolute;
+    width: 93px;
+    height: 18.74px;
+    /* left: 512px;
+    top: 190.15px; */
+
+    /* Secion Header */
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+
+
+    /* Catalina Blue */
+
+    color: #203758;
+}
+p8 {
+    position: absolute;
+    width: 93px;
+    height: 18.74px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #203758;
+    left: 47px;
+    top: 30px;
+}
+.box1 {
+    position: absolute;
+    width: 622px;
+    height: 770px;
+    left: 409px;
+    top: 450px;
+
+    /* White */
+
+    background: #FFFFFF;
+    /* Solitude */
+
+    border: 1.5px solid #F1F2F6;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+p11 {
+    position: absolute;
+    width: 120px;
+    height: 18px;
+    left: 51px;
+    top: 8px;
+
+    /* Secion Header */
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    /* Catalina Blue */
+
+    color: #203758;
+
+}
+p12{
+    position: absolute;
+    width: 93px;
+    height: 13px;
+    left: 51px;
+    top: 35px;
+
+    /* Status */
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 13px;
+
+    /* Slate Grey */
+
+    color: #788292;
+}
+p13{
+    position: absolute;
+    width: 553px;
+    height: 24px;
+    left: 24px;
+    top: 60px;
+
+    /* Content */
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 187.4%;
+    /* or 26px */
+
+
+    /* Catalina Blue */
+
+    color: #203758;
+}
+.chat {
+    position: absolute;
+    width: 253px;
+    height: 63px;
+    left: 30px;
+    top: 390px;
+    background: #F1F2F6;
+    border-radius: 10px;
+}
+p17 {
+    position: absolute;
+    width: 127px;
+    height: 16px;
+    left: 51px;
+    top: 10px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+/* identical to box height */
+
+
+/* Catalina Blue */
+
+color: #203758;
+}
+p18 {
+    position: absolute;
+    width: 225px;
+    height: 26px;
+    left: 51px;
+    top: 35px;
+
+    /* Content */
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 187.4%;
+    /* or 26px */
+
+
+    /* Catalina Blue */
+
+    color: #203758
+}
+.chat1 {
+    position: absolute;
+    width: 336px;
+    height: 63px;
+    left: 33px;
+    top: 470px;
+    
+    background: #F1F2F6;
+    border-radius: 10px;
+}
+p19 {
+    position: absolute;
+    width: 59px;
+    height: 16px;
+    left: 57px;
+    top: 9px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height */
+
+
+    /* Catalina Blue */
+
+    color: #203758;
+}
+p20{
+    position: absolute;
+    width: 312px;
+    height: 26px;
+    left: 51px;
+    top: 30px;
+
+    /* Content */
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 187.4%;
+    /* or 26px */
+
+
+    /* Catalina Blue */
+
+    color: #203758;
+}
+.chat2 {
+    position: absolute;
+    width: 226px;
+    height: 63px;
+    left: 32px;
+    top: 550px;
+
+    background: #F1F2F6;
+    border-radius:10px;
+}
+p21 {
+    position: absolute;
+    width: 93px;
+    height: 16px;
+    left: 60px;
+    top: 9px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height */
+
+
+    /* Catalina Blue */
+
+    color: #203758;
+}
+p22 {
+    position: absolute;
+    width: 201px;
+    height: 26px;
+    left: 57px;
+    top: 35px;
+
+    /* Content */
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 187.4%;
+    /* or 26px */
+
+
+    /* Catalina Blue */
+
+    color: #203758;
+
+}
+.chat3 {
+    position: absolute;
+    width: 485px;
+    height: 50px;
+    left: 30px;
+    top: 630px;
+
+    background: #F1F2F6;
+    border-radius: 10px;
+    }
+p23{
+    position: absolute;
+    width: 155px;
+    height: 26px;
+    left: 55px;
+    top: 10px;
+
+    /* Content */
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 187.4%;
+    /* or 26px */
+
+
+    color: #788292;
+
+}
